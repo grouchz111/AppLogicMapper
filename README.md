@@ -1,2 +1,3 @@
 # AppLogicMapper
 
+CTRL+N, CTRL+E, CTRL+V, CTRL+S, CTRL+1, CTRL+0
