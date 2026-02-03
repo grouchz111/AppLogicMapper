@@ -1,0 +1,16 @@
+C:\Users\test441\OneDrive\Documents\GitHub\WinXP_WPF\ThemeRetro\bin\Debug\netcoreapp3.1\ThemeRetro.deps.json
+C:\Users\test441\OneDrive\Documents\GitHub\WinXP_WPF\ThemeRetro\bin\Debug\netcoreapp3.1\ThemeRetro.dll
+C:\Users\test441\OneDrive\Documents\GitHub\WinXP_WPF\ThemeRetro\bin\Debug\netcoreapp3.1\ThemeRetro.pdb
+C:\Users\test441\OneDrive\Documents\GitHub\WinXP_WPF\ThemeRetro\obj\Debug\netcoreapp3.1\RetroButton.baml
+C:\Users\test441\OneDrive\Documents\GitHub\WinXP_WPF\ThemeRetro\obj\Debug\netcoreapp3.1\RetroCheckBox.baml
+C:\Users\test441\OneDrive\Documents\GitHub\WinXP_WPF\ThemeRetro\obj\Debug\netcoreapp3.1\RetroRadioButtons.baml
+C:\Users\test441\OneDrive\Documents\GitHub\WinXP_WPF\ThemeRetro\obj\Debug\netcoreapp3.1\RetroTextBox.baml
+C:\Users\test441\OneDrive\Documents\GitHub\WinXP_WPF\ThemeRetro\obj\Debug\netcoreapp3.1\ThemeRetro_MarkupCompile.cache
+C:\Users\test441\OneDrive\Documents\GitHub\WinXP_WPF\ThemeRetro\obj\Debug\netcoreapp3.1\ThemeRetro.g.resources
+C:\Users\test441\OneDrive\Documents\GitHub\WinXP_WPF\ThemeRetro\obj\Debug\netcoreapp3.1\ThemeRetro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\test441\OneDrive\Documents\GitHub\WinXP_WPF\ThemeRetro\obj\Debug\netcoreapp3.1\ThemeRetro.AssemblyInfoInputs.cache
+C:\Users\test441\OneDrive\Documents\GitHub\WinXP_WPF\ThemeRetro\obj\Debug\netcoreapp3.1\ThemeRetro.AssemblyInfo.cs
+C:\Users\test441\OneDrive\Documents\GitHub\WinXP_WPF\ThemeRetro\obj\Debug\netcoreapp3.1\ThemeRetro.csproj.CoreCompileInputs.cache
+C:\Users\test441\OneDrive\Documents\GitHub\WinXP_WPF\ThemeRetro\obj\Debug\netcoreapp3.1\ThemeRetro.sourcelink.json
+C:\Users\test441\OneDrive\Documents\GitHub\WinXP_WPF\ThemeRetro\obj\Debug\netcoreapp3.1\ThemeRetro.dll
+C:\Users\test441\OneDrive\Documents\GitHub\WinXP_WPF\ThemeRetro\obj\Debug\netcoreapp3.1\ThemeRetro.pdb

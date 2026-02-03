@@ -1,0 +1,19 @@
+﻿<Application x:Class="WpfApp8.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             StartupUri="MainWindow.xaml">
+
+    <Application.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="RetroChrome.xaml" />
+                <ResourceDictionary Source="RetroButton.xaml" />
+                <ResourceDictionary Source="TextBoxRetro.xaml" />
+                <ResourceDictionary Source="RetroCheckBox.xaml" />
+                <ResourceDictionary Source="RetroRadioButtons.xaml" />
+                <ResourceDictionary Source="ListBox.xaml" />
+            </ResourceDictionary.MergedDictionaries>
+        </ResourceDictionary>
+    </Application.Resources>
+
+</Application>

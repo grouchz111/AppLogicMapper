@@ -1,0 +1,57 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+
+    <Style TargetType="Button">
+        <Setter Property="FontFamily" Value="Tahoma"/>
+        <Setter Property="Foreground" Value="Black"/>
+        <Setter Property="Background" Value="#ECE9D8"/>
+        <Setter Property="Padding" Value="6,3"/>
+        <Setter Property="SnapsToDevicePixels" Value="True"/>
+
+        <Setter Property="Template">
+            <Setter.Value>
+                <ControlTemplate TargetType="Button">
+                    <Grid>
+
+                        <Border x:Name="Outer"
+                                Background="{TemplateBinding Background}"
+                                BorderBrush="#404040"
+                                BorderThickness="1"/>
+
+                        <Border x:Name="TopLeft"
+                                Margin="1"
+                                BorderBrush="#FFFFFF"
+                                BorderThickness="1,1,0,0"/>
+
+                        <Border x:Name="BottomRight"
+                                Margin="1"
+                                BorderBrush="#808080"
+                                BorderThickness="0,0,1,1"/>
+
+                        <ContentPresenter x:Name="Content"
+                                          HorizontalAlignment="Center"
+                                          VerticalAlignment="Center"
+                                          Margin="4,2"/>
+                    </Grid>
+
+                    <ControlTemplate.Triggers>
+
+                        <Trigger Property="IsPressed" Value="True">
+                            <Setter TargetName="TopLeft" Property="BorderBrush" Value="#808080"/>
+                            <Setter TargetName="BottomRight" Property="BorderBrush" Value="#FFFFFF"/>
+                            <Setter TargetName="Outer" Property="Background" Value="#D0CFC7"/>
+                            <Setter TargetName="Content" Property="Margin" Value="5,3,3,1"/>
+                        </Trigger>
+
+                        <Trigger Property="IsEnabled" Value="False">
+                            <Setter Property="Foreground" Value="#808080"/>
+                            <Setter TargetName="Outer" Property="Background" Value="#E0E0E0"/>
+                        </Trigger>
+
+                    </ControlTemplate.Triggers>
+                </ControlTemplate>
+            </Setter.Value>
+        </Setter>
+    </Style>
+
+</ResourceDictionary>

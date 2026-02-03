@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "kUQf+5BQKT0=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\test441\\source\\repos\\AppLogicMapper\\WpfApp8.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\test441\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.135\\microsoft.xaml.behaviors.wpf.1.1.135.nupkg.sha512"
+  ],
+  "logs": []
+}
