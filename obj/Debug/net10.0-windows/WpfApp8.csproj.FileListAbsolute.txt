@@ -66,3 +66,4 @@ C:\Users\test441\source\repos\AppLogicMapper\obj\Debug\net10.0-windows\refint\Wp
 C:\Users\test441\source\repos\AppLogicMapper\obj\Debug\net10.0-windows\WpfApp8.pdb
 C:\Users\test441\source\repos\AppLogicMapper\obj\Debug\net10.0-windows\WpfApp8.genruntimeconfig.cache
 C:\Users\test441\source\repos\AppLogicMapper\obj\Debug\net10.0-windows\ref\WpfApp8.dll
+C:\Users\test441\source\repos\AppLogicMapper\obj\Debug\net10.0-windows\WpfApp8.sourcelink.json

@@ -1,4 +1,6 @@
+
 using System;
+using Microsoft.Win32;
 using System.Collections.Generic;
 using System.Diagnostics;
 using System.IO;
@@ -1051,15 +1053,12 @@ namespace WpfApp8
 
         private void Render_Click(object sender, RoutedEventArgs e)
         {
-            // Replace "MyCanvas" with the actual name of your Canvas
             var canvas = EditorCanvas;
 
-            // Measure and arrange the canvas
             Size size = new Size(canvas.ActualWidth, canvas.ActualHeight);
             canvas.Measure(size);
             canvas.Arrange(new Rect(size));
 
-            // Render to bitmap
             RenderTargetBitmap rtb = new RenderTargetBitmap(
                 (int)size.Width,
                 (int)size.Height,
@@ -1068,14 +1067,20 @@ namespace WpfApp8
 
             rtb.Render(canvas);
 
-            // Encode as PNG
             PngBitmapEncoder encoder = new PngBitmapEncoder();
             encoder.Frames.Add(BitmapFrame.Create(rtb));
 
-            // Save to file
-            using (var fs = new FileStream("output.png", FileMode.Create))
+            // Open Save File dialog
+            SaveFileDialog dialog = new SaveFileDialog();
+            dialog.Filter = "PNG Image (*.png)|*.png";
+            dialog.FileName = "output.png";
+
+            if (dialog.ShowDialog() == true)
             {
-                encoder.Save(fs);
+                using (var fs = new FileStream(dialog.FileName, FileMode.Create))
+                {
+                    encoder.Save(fs);
+                }
             }
         }
 
