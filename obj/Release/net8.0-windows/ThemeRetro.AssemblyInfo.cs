@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ThemeRetro")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+79c00e2ac79ac4d158ba25081ffff4e7ede00014")]
 [assembly: System.Reflection.AssemblyProductAttribute("ThemeRetro")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ThemeRetro")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

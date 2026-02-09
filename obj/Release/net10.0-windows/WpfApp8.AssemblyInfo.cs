@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WpfApp8")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+859325d97728f93e90e974f796734bc71bad317c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+79c00e2ac79ac4d158ba25081ffff4e7ede00014")]
 [assembly: System.Reflection.AssemblyProductAttribute("WpfApp8")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WpfApp8")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

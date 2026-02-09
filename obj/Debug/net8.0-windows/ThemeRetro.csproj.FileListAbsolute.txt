@@ -52,3 +52,6 @@ C:\Users\test441\OneDrive\Documents\GitHub\ToDoApp\ThemeRetro\obj\Debug\net8.0-w
 C:\Users\test441\OneDrive\Documents\GitHub\ToDoApp\ThemeRetro\obj\Debug\net8.0-windows\refint\ThemeRetro.dll
 C:\Users\test441\OneDrive\Documents\GitHub\ToDoApp\ThemeRetro\obj\Debug\net8.0-windows\ThemeRetro.pdb
 C:\Users\test441\OneDrive\Documents\GitHub\ToDoApp\ThemeRetro\obj\Debug\net8.0-windows\ref\ThemeRetro.dll
+C:\Users\test441\source\repos\AppLogicMapper\obj\Debug\net8.0-windows\ThemeRetro.dll
+C:\Users\test441\source\repos\AppLogicMapper\obj\Debug\net8.0-windows\refint\ThemeRetro.dll
+C:\Users\test441\source\repos\AppLogicMapper\obj\Debug\net8.0-windows\ThemeRetro.pdb

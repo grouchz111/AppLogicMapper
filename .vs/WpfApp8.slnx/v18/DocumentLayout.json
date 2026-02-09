@@ -11,12 +11,32 @@
       "RelativeMoniker": "D:0:0:{A920C32F-2396-6167-4958-7621B1DC353C}|WpfApp8.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A920C32F-2396-6167-4958-7621B1DC353C}|WpfApp8.csproj|c:\\users\\test441\\source\\repos\\applogicmapper\\retrobutton.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{A920C32F-2396-6167-4958-7621B1DC353C}|WpfApp8.csproj|solutionrelative:retrobutton.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{A920C32F-2396-6167-4958-7621B1DC353C}|WpfApp8.csproj|c:\\users\\test441\\source\\repos\\applogicmapper\\baseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A920C32F-2396-6167-4958-7621B1DC353C}|WpfApp8.csproj|solutionrelative:baseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A920C32F-2396-6167-4958-7621B1DC353C}|WpfApp8.csproj|c:\\users\\test441\\source\\repos\\applogicmapper\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A920C32F-2396-6167-4958-7621B1DC353C}|WpfApp8.csproj|solutionrelative:assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A920C32F-2396-6167-4958-7621B1DC353C}|WpfApp8.csproj|c:\\users\\test441\\source\\repos\\applogicmapper\\retrowindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{A920C32F-2396-6167-4958-7621B1DC353C}|WpfApp8.csproj|solutionrelative:retrowindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A920C32F-2396-6167-4958-7621B1DC353C}|WpfApp8.csproj|c:\\users\\test441\\source\\repos\\applogicmapper\\retrowindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A920C32F-2396-6167-4958-7621B1DC353C}|WpfApp8.csproj|solutionrelative:retrowindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A920C32F-2396-6167-4958-7621B1DC353C}|WpfApp8.csproj|c:\\users\\test441\\source\\repos\\applogicmapper\\retrochrome.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A920C32F-2396-6167-4958-7621B1DC353C}|WpfApp8.csproj|solutionrelative:retrochrome.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A920C32F-2396-6167-4958-7621B1DC353C}|WpfApp8.csproj|c:\\users\\test441\\source\\repos\\applogicmapper\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A920C32F-2396-6167-4958-7621B1DC353C}|WpfApp8.csproj|solutionrelative:readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A920C32F-2396-6167-4958-7621B1DC353C}|WpfApp8.csproj|c:\\users\\test441\\source\\repos\\applogicmapper\\retrobutton.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A920C32F-2396-6167-4958-7621B1DC353C}|WpfApp8.csproj|solutionrelative:retrobutton.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A920C32F-2396-6167-4958-7621B1DC353C}|WpfApp8.csproj|c:\\users\\test441\\source\\repos\\applogicmapper\\wpfapp8.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
@@ -39,10 +59,6 @@
       "RelativeMoniker": "D:0:0:{A920C32F-2396-6167-4958-7621B1DC353C}|WpfApp8.csproj|solutionrelative:retroradiobuttons.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A920C32F-2396-6167-4958-7621B1DC353C}|WpfApp8.csproj|c:\\users\\test441\\source\\repos\\applogicmapper\\retrochrome.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{A920C32F-2396-6167-4958-7621B1DC353C}|WpfApp8.csproj|solutionrelative:retrochrome.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A920C32F-2396-6167-4958-7621B1DC353C}|WpfApp8.csproj|c:\\users\\test441\\source\\repos\\applogicmapper\\retrocheckbox.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{A920C32F-2396-6167-4958-7621B1DC353C}|WpfApp8.csproj|solutionrelative:retrocheckbox.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
@@ -55,10 +71,6 @@
       "RelativeMoniker": "D:0:0:{A920C32F-2396-6167-4958-7621B1DC353C}|WpfApp8.csproj|solutionrelative:todo.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A920C32F-2396-6167-4958-7621B1DC353C}|WpfApp8.csproj|c:\\users\\test441\\source\\repos\\applogicmapper\\baseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A920C32F-2396-6167-4958-7621B1DC353C}|WpfApp8.csproj|solutionrelative:baseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A920C32F-2396-6167-4958-7621B1DC353C}|WpfApp8.csproj|c:\\users\\test441\\source\\repos\\applogicmapper\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{A920C32F-2396-6167-4958-7621B1DC353C}|WpfApp8.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
@@ -69,10 +81,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{A920C32F-2396-6167-4958-7621B1DC353C}|WpfApp8.csproj|c:\\users\\test441\\source\\repos\\applogicmapper\\.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A920C32F-2396-6167-4958-7621B1DC353C}|WpfApp8.csproj|solutionrelative:.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A920C32F-2396-6167-4958-7621B1DC353C}|WpfApp8.csproj|c:\\users\\test441\\source\\repos\\applogicmapper\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A920C32F-2396-6167-4958-7621B1DC353C}|WpfApp8.csproj|solutionrelative:assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -92,7 +100,7 @@
               "RelativeDocumentMoniker": "MainWindow.xaml.cs",
               "ToolTip": "C:\\Users\\test441\\source\\repos\\AppLogicMapper\\MainWindow.xaml.cs",
               "RelativeToolTip": "MainWindow.xaml.cs",
-              "ViewState": "AgIAAFgEAAAAAAAAAAAQwIAEAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAFYEAAAAAAAAAADwv3AEAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-27T20:32:48.737Z",
               "IsPinned": true,
@@ -113,7 +121,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
               "Title": "RetroButton.xaml",
               "DocumentMoniker": "C:\\Users\\test441\\source\\repos\\AppLogicMapper\\RetroButton.xaml",
               "RelativeDocumentMoniker": "RetroButton.xaml",
@@ -142,19 +150,44 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
+              "Title": "RetroWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\test441\\source\\repos\\AppLogicMapper\\RetroWindow.xaml.cs",
+              "RelativeDocumentMoniker": "RetroWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\test441\\source\\repos\\AppLogicMapper\\RetroWindow.xaml.cs",
+              "RelativeToolTip": "RetroWindow.xaml.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-08T14:25:57.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\test441\\source\\repos\\AppLogicMapper\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "C:\\Users\\test441\\source\\repos\\AppLogicMapper\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-02-08T14:06:49.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "WpfApp8",
               "DocumentMoniker": "C:\\Users\\test441\\source\\repos\\AppLogicMapper\\WpfApp8.csproj",
               "RelativeDocumentMoniker": "WpfApp8.csproj",
               "ToolTip": "C:\\Users\\test441\\source\\repos\\AppLogicMapper\\WpfApp8.csproj",
               "RelativeToolTip": "WpfApp8.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-02-02T19:22:49.805Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-02T19:22:49.805Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 12,
               "Title": "RetroCheckBox.xaml",
               "DocumentMoniker": "C:\\Users\\test441\\source\\repos\\AppLogicMapper\\RetroCheckBox.xaml",
               "RelativeDocumentMoniker": "RetroCheckBox.xaml",
@@ -166,7 +199,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 15,
               "Title": "ListBox.xaml",
               "DocumentMoniker": "C:\\Users\\test441\\source\\repos\\AppLogicMapper\\ListBox.xaml",
               "RelativeDocumentMoniker": "ListBox.xaml",
@@ -178,7 +211,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 6,
               "Title": "RetroChrome.xaml",
               "DocumentMoniker": "C:\\Users\\test441\\source\\repos\\AppLogicMapper\\RetroChrome.xaml",
               "RelativeDocumentMoniker": "RetroChrome.xaml",
@@ -190,7 +223,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 16,
               "Title": "Todo.ico - Icon [32x32, 32 bit, PNG]",
               "DocumentMoniker": "C:\\Users\\test441\\source\\repos\\AppLogicMapper\\Todo.ico",
               "RelativeDocumentMoniker": "Todo.ico",
@@ -202,7 +235,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 2,
               "Title": "BaseViewModel.cs",
               "DocumentMoniker": "C:\\Users\\test441\\source\\repos\\AppLogicMapper\\BaseViewModel.cs",
               "RelativeDocumentMoniker": "BaseViewModel.cs",
@@ -210,11 +243,12 @@
               "RelativeToolTip": "BaseViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-27T20:36:21.971Z"
+              "WhenOpened": "2026-01-27T20:36:21.971Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 17,
               "Title": "App.xaml",
               "DocumentMoniker": "C:\\Users\\test441\\source\\repos\\AppLogicMapper\\App.xaml",
               "RelativeDocumentMoniker": "App.xaml",
@@ -226,7 +260,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 18,
               "Title": "ThemeInfo.cs",
               "DocumentMoniker": "C:\\Users\\test441\\source\\repos\\AppLogicMapper\\ThemeInfo.cs",
               "RelativeDocumentMoniker": "ThemeInfo.cs",
@@ -238,7 +272,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 14,
               "Title": "RetroCheckBox.xaml",
               "DocumentMoniker": "C:\\Users\\test441\\source\\repos\\AppLogicMapper\\RetroCheckBox.xaml",
               "RelativeDocumentMoniker": "RetroCheckBox.xaml",
@@ -249,7 +283,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 13,
               "Title": "RetroRadioButtons.xaml",
               "DocumentMoniker": "C:\\Users\\test441\\source\\repos\\AppLogicMapper\\RetroRadioButtons.xaml",
               "RelativeDocumentMoniker": "RetroRadioButtons.xaml",
@@ -261,7 +295,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 11,
               "Title": "Generic.xaml",
               "DocumentMoniker": "C:\\Users\\test441\\source\\repos\\AppLogicMapper\\Themes\\Generic.xaml",
               "RelativeDocumentMoniker": "Themes\\Generic.xaml",
@@ -272,7 +306,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
               "Title": "TextBoxRetro.xaml",
               "DocumentMoniker": "C:\\Users\\test441\\source\\repos\\AppLogicMapper\\TextBoxRetro.xaml",
               "RelativeDocumentMoniker": "TextBoxRetro.xaml",
@@ -284,7 +318,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "RetroWindow.xaml",
               "DocumentMoniker": "C:\\Users\\test441\\source\\repos\\AppLogicMapper\\RetroWindow.xaml",
               "RelativeDocumentMoniker": "RetroWindow.xaml",
@@ -296,7 +330,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 19,
               "Title": ".cs",
               "DocumentMoniker": "C:\\Users\\test441\\source\\repos\\AppLogicMapper\\.cs",
               "RelativeDocumentMoniker": ".cs",
@@ -308,7 +342,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 3,
               "Title": "AssemblyInfo.cs",
               "DocumentMoniker": "C:\\Users\\test441\\source\\repos\\AppLogicMapper\\AssemblyInfo.cs",
               "RelativeDocumentMoniker": "AssemblyInfo.cs",
@@ -316,7 +350,8 @@
               "RelativeToolTip": "AssemblyInfo.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-27T20:42:43.914Z"
+              "WhenOpened": "2026-01-27T20:42:43.914Z",
+              "EditorCaption": ""
             }
           ]
         }
